@@ -1,7 +1,7 @@
 # Introduction to Spatial Analysis
 This is an Introduction to Spatial Analysis workshop using QGIS and R software
 
-## Welcome to the SESA Workshop — Introduction to Spatial Analysis
+## Welcome to the SESA Workshop - Introduction to Spatial Analysis
 ### Workshop Overview
 This workshop is part of the Strengthening Ethiopian Surveys and Analytics (SESA) project, which aims to strengthen the generation of policy-relevant evidence in reproductive, maternal, neonatal, child, and adolescent health and nutrition (RMNCAH+N). The National Data Management Centre (NDMC) at the Ethiopian Public Health Institute (EPHI), in collaboration with the London School of Hygiene & Tropical Medicine (LSHTM), works to enhance the capacity of Health and Demographic Surveillance Systems (HDSS) in Ethiopia to conduct longitudinal data analyses.
 Spatial analysis is becoming an increasingly important tool in public health research as the volume and complexity of spatially referenced health and demographic data continue to grow. HDSS sites routinely generate geographically referenced data that can be used to explore spatial patterns and contextual determinants of health outcomes. This introductory workshop provides hands-on exposure to core concepts and practical tools for spatial data management, visualisation, and basic analysis QGIS, with a focus on practical application and reproducible workflows. 
