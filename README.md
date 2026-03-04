@@ -15,12 +15,12 @@ The workshop will be delivered through a mix of short lectures, demonstrations, 
 
 ### Learning Outcomes
 By the end of the workshop, participants will be able to:
-•	Import, manage, and manipulate spatial and non-spatial datasets in QGIS 
-•	Visualise spatial data using maps and select appropriate map projections
-•	Understand and interpret basic analytical approaches for areal spatial data 
-•	Recognise key characteristics of point data and polygon data, and understand common analysis techniques
-•	Create clear and informative data visualisations using ggplot2, and justify the choice of plot types
-•	Document reproducible QGIS workflow and code 
+* Import, manage, and manipulate spatial and non-spatial datasets in QGIS
+* Visualise spatial data using maps and select appropriate map projections
+* Understand and interpret basic analytical approaches for areal spatial data
+* Recognise key characteristics of point data and polygon data, and understand common analysis techniques
+* Create clear and informative data visualisations using ggplot2, and justify the choice of plot types
+* Document reproducible QGIS workflow and code 
 
 
 ## Before the workshop: please download and install the long-term stable version of QGIS software on your local machine. 
