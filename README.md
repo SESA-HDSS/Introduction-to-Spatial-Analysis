@@ -23,7 +23,7 @@ By the end of the workshop, participants will be able to:
 * Document reproducible QGIS workflow and code 
 
 
-## Before the workshop: please download and install the long-term stable version of QGIS software on your local machine. 
+## Before the workshop: please download and install the long-term (stable) version of QGIS software on your local machine. 
 
 [Download QGIS (3.40 LTR)](https://download.qgis.org/downloads/QGIS-OSGeo4W-3.40.15-1.msi)
 
