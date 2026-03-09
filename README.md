@@ -32,5 +32,22 @@ By the end of the workshop, participants will be able to:
 ## Install the software 
 •	Once downloaded, double-click the **QGIS-OSGeo4W-3.40.15-1** to launch the installer
 
-
 <img width="574" height="247" alt="image" src="https://github.com/user-attachments/assets/448e23e9-5964-41bb-87aa-9e98a5fb5d21" />
+
+## Dataset for HDSS-specific practical
+As part of the preparations for the upcoming GIS workshop scheduled for March 23–26, we kindly request each HDSS site to extract and bring a dataset containing the following variables from your HDSS database:
+
+* Unique ID
+* Sex
+* Date of birth
+* Date of last observation (end date)
+* End type/event (Death, Outmigration, Active)
+* Date of last update
+* Latitude and longitude
+* Kebele name
+* Cluster name
+* In addition, please bring the **HDSS shapefile** for your site. **If a shapefile is not currently available, kindly prepare one prior to the workshop if possible.**
+
+**N.B: These datasets will be used during the hands-on sessions of the workshop, so having them ready in advance will help ensure smooth participation and productive exercises.**
+
+Please feel free to reach out if you have any questions regarding the requested variables or file formats.
