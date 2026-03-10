@@ -25,14 +25,11 @@ By the end of the workshop, participants will be able to:
 
 ## Before the workshop: please download and install the long-term (stable) version of QGIS software on your local machine. 
 
-[Download QGIS (3.30)]([https://download.qgis.org/downloads/QGIS-OSGeo4W-3.40.15-1.msi](https://download.osgeo.org/qgis/win64/QGIS-OSGeo4W-3.30.3-1.msi))
+[Download QGIS (3.30.3-1)]([https://download.qgis.org/downloads/QGIS-OSGeo4W-3.40.15-1.msi](https://download.osgeo.org/qgis/win64/QGIS-OSGeo4W-3.30.3-1.msi))
 
-<img width="393" height="101" alt="image" src="https://github.com/user-attachments/assets/0ff23d13-908e-4af6-b5e5-60897fb08bf9" />
 
 ## Install the software 
-•	Once downloaded, double-click the **QGIS-OSGeo4W-3.40.15-1** to launch the installer
-
-<img width="574" height="247" alt="image" src="https://github.com/user-attachments/assets/448e23e9-5964-41bb-87aa-9e98a5fb5d21" />
+•	Once downloaded, double-click the **QGIS-OSGeo4W-3.30.3-1** to launch the installer
 
 ## Dataset for HDSS-specific practical
 As part of the preparations for the upcoming GIS workshop scheduled for March 23–26, we kindly request each HDSS site to extract and bring a dataset containing the following variables from your HDSS database:
