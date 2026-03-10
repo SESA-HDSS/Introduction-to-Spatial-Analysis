@@ -25,8 +25,7 @@ By the end of the workshop, participants will be able to:
 
 ## Before the workshop: please download and install the long-term (stable) version of QGIS software on your local machine. 
 
-[Download QGIS (3.30.3-1)]([https://download.qgis.org/downloads/QGIS-OSGeo4W-3.40.15-1.msi](https://download.osgeo.org/qgis/win64/QGIS-OSGeo4W-3.30.3-1.msi))
-
+[Download QGIS (3.30.3-1)](https://download.osgeo.org/qgis/win64/QGIS-OSGeo4W-3.30.3-1.msi)
 
 ## Install the software 
 •	Once downloaded, double-click the **QGIS-OSGeo4W-3.30.3-1** to launch the installer
